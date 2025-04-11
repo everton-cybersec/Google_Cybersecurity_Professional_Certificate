@@ -19,7 +19,7 @@ This repository showcases practical activities completed during the **Google Cyb
 ### 🐧 Course 4 – File Permissions in Linux
 - **Description**: Exploration of key Linux commands like `pwd`, `ls`, and `chmod` for managing file permissions.
 - **Key Skills**: Linux basics, access control, file and directory permissions.
-- 📄 [View PDF](./linux-and-sql-course-4/file-permissions-in-linux.pdf)
+- 📄 [View PDF](./course-4/file-permissions-in-linux.pdf.pdf)
 
 ---
 
