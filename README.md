@@ -14,7 +14,7 @@ This repository showcases practical activities completed during the **Google Cyb
 ### 🛡️ Course 4 – Apply Filters to SQL Queries
 - **Description**: Use of SQL to identify suspicious login activities and employee access.
 - **Key Skills**: SQL querying, filtering using `AND`, `OR`, `NOT`, and `LIKE` operators.
-- 📄 [View PDF](./course-4/apply-filters-to-sql-queries.pdf)
+- 📄 [View PDF](./course-4/apply-filters-to-sql-queries.pdf.pdf)
 
 ### 🐧 Course 4 – File Permissions in Linux
 - **Description**: Exploration of key Linux commands like `pwd`, `ls`, and `chmod` for managing file permissions.
