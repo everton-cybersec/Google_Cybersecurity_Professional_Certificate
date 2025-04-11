@@ -9,7 +9,7 @@ This repository showcases practical activities completed during the **Google Cyb
 ### 🔎 Course 3 – Incident Report Analysis
 - **Description**: Analysis of a DDoS (ICMP Flood) attack on a multimedia company.
 - **Key Skills**: NIST framework application, incident detection and response, mitigation strategies.
-- 📄 [View PDF](./course-3/incident-report-analysis.pdf)
+- 📄 [View PDF](./course-3/incident-report-analysis.pdf.pdf)
 
 ### 🛡️ Course 4 – Apply Filters to SQL Queries
 - **Description**: Use of SQL to identify suspicious login activities and employee access.
