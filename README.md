@@ -9,12 +9,12 @@ This repository showcases practical activities completed during the **Google Cyb
 ### 🔎 Course 3 – Incident Report Analysis
 - **Description**: Analysis of a DDoS (ICMP Flood) attack on a multimedia company.
 - **Key Skills**: NIST framework application, incident detection and response, mitigation strategies.
-- 📄 [View PDF](./network%20and%20security%20-%20course%203/Incident%20report%20analysis%20-%20course%203.pdf)
+- 📄 [View PDF]([Incident Report Analysis](./course-3/incident-report-analysis.pdf))
 
 ### 🛡️ Course 4 – Apply Filters to SQL Queries
 - **Description**: Use of SQL to identify suspicious login activities and employee access.
 - **Key Skills**: SQL querying, filtering using `AND`, `OR`, `NOT`, and `LIKE` operators.
-- 📄 [View PDF](./linux-and-sql/apply-filters-to-sql-queries-course4.pdf)
+- 📄 [View PDF](./course-4/apply-filters-to-sql-queries.pdf)
 
 ### 🐧 Course 4 – File Permissions in Linux
 - **Description**: Exploration of key Linux commands like `pwd`, `ls`, and `chmod` for managing file permissions.
