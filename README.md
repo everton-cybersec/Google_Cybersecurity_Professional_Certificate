@@ -1,6 +1,6 @@
 # 📚 Google Cybersecurity Certificate – Project Portfolio
 
-This repository showcases practical activities completed during the **Google Cybersecurity Professional Certificate**. These projects demonstrate my hands-on experience in incident analysis, SQL filtering, and Linux file permissions — all essential skills for cybersecurity operations.
+This repository showcases practical activities completed during the **Google Cybersecurity Professional Certificate**. These projects demonstrate my hands-on experience in incident analysis, SQL filtering, Linux file permissions and more technical skills and projects will be added as I progress.  — all essential skills for cybersecurity operations.
 
 ---
 
