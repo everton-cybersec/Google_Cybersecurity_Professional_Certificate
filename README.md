@@ -24,7 +24,7 @@ This repository showcases practical activities completed during the **Google Cyb
 ### 🔎 Course 5 - Vulnerability Assessment
 - **Description**: This course focuses on vulnerability assessment and risk analysis using NIST SP 800-30 Rev. 1. It covers identifying threats, evaluating impacts, and defining strategies to mitigate risks in information systems.
 - **Key Skills**: Risk assessment, applying NIST SP 800-30, vulnerability mitigation strategies, and IT system security.
-- 📄 [View PDF](./
+- 📄 [View PDF](./course-5/vulnerability-assessment-report.pdf.pdf)
   
 ---
 
