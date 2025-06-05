@@ -36,7 +36,11 @@ These first two courses provided a theoretical foundation in cybersecurity and i
 - Personal reflections on learning and tools.
 - **Key Skills**: Incident documentation, network analysis, malware detection, and hands-on use of cybersecurity tools.
 - 📄 [View PDF](./course-6/Incident-handlers-journal.pdf.pdf)
-  
+
+### 🐍 Course 7 - Algorithm for file uopdates in Python
+- **Description**: This course covered task automation concepts using the Python programming language, including the use of variables, functions, and methods. Below is a report demonstrating how Python can be used to update a file within a company's system, based on a fictional scenario.
+- **Key Skills**: Python scripting, file handling, task automation, use of functions and methods, problem-solving with code.
+- 📄 [View PDF](./course-7/algorithm_for_file_updates_in_python.pdf)
 ---
 
 ## 💡 About Me
