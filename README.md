@@ -1,7 +1,8 @@
 # 📚 Google Cybersecurity Certificate – Practical Projects
 
 This repository serves as both a personal portfolio and a study reference for aspiring cybersecurity professionals.
-[➡️ Access the course here](https://www.coursera.org/professional-certificates/google-cybersecurity)
+
+➡️ [Access the course here](https://www.coursera.org/professional-certificates/google-cybersecurity)
 
 Courses 1 and 2 were theoretical, building a foundation in cybersecurity and incident response. From Course 3 onward, hands-on projects demonstrate skills in:
 
