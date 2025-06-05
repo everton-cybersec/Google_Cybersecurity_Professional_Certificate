@@ -6,7 +6,7 @@ This repository showcases practical activities completed during the **Google Cyb
 
 ## 📌 Projects
 
-- **Description**: These first two courses provided a theoretical foundation in cybersecurity and incident response. While primarily introductory, they laid the groundwork for understanding key concepts, though no hands-on activities were included.
+These first two courses provided a theoretical foundation in cybersecurity and incident response. While primarily introductory, they laid the groundwork for understanding key concepts, though no hands-on activities were included.
 - **Key Skills**: Cybersecurity fundamentals, incident response concepts, risk and threat awareness, and theoretical understanding of security frameworks.
 
 ### 🔎 Course 3 – Incident Report Analysis
