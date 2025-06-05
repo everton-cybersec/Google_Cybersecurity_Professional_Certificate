@@ -25,6 +25,14 @@ This repository showcases practical activities completed during the **Google Cyb
 - **Description**: This course focuses on vulnerability assessment and risk analysis using NIST SP 800-30 Rev. 1. It covers identifying threats, evaluating impacts, and defining strategies to mitigate risks in information systems.
 - **Key Skills**: Risk assessment, applying NIST SP 800-30, vulnerability mitigation strategies, and IT system security.
 - 📄 [View PDF](./course-5/vulnerability-assessment-report.pdf.pdf)
+
+### 🛡️ Course 6 - Incident Handler's Journal
+- **Description**: This document contains practical records of activities carried out during an incident response course, including:
+- Documentation of simulated real-world incidents;
+- Use of tools such as Wireshark, tcpdump, and VirusTotal;
+- Personal reflections on learning and tools.
+- **Key Skills**: Incident documentation, network analysis, malware detection, and hands-on use of cybersecurity tools.
+- 📄 [View PDF](./course-6/Incident-handlers-journal.pdf.pdf)
   
 ---
 
