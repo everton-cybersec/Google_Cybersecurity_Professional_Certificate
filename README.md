@@ -71,7 +71,7 @@ These first two courses provided a theoretical foundation in cybersecurity and i
 
 - **Description**: Learn when and how to escalate security incidents, connect with the cybersecurity community, and prepare for job applications and interviews. Gain a competitive edge by learning AI skills from Google experts.
 - **Key Skills**: Incident Response & Escalation, Resume & Application Optimization, AI with cybersecurity.
-- 📜 [Certificate](./course-8/Certificate_8.pdf)
+- 📜 [Certificate](./course-8-finished/Certificate_8.pdf)
   
 ---
 
