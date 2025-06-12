@@ -67,7 +67,7 @@ These first two courses provided a theoretical foundation in cybersecurity and i
 - 📄 [View PDF](./course-7/algorithm-for-file-updates-in-python.pdf)
 - 📜 [Certificate](./course-7/Certificate_7.pdf)
 
-### 🐍 Course 8 - Advance Your Cybersecurity Career
+### 🧠 Course 8 - Advance Your Cybersecurity Career
 
 - **Description**: Learn when and how to escalate security incidents, connect with the cybersecurity community, and prepare for job applications and interviews. Gain a competitive edge by learning AI skills from Google experts.
 - **Key Skills**: Incident Response & Escalation, Resume & Application Optimization, AI with cybersecurity.
